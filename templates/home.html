@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome | Loan & Credit Hub</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Welcome to Loan & Credit Improvement Hub</h1>
+    <ul>
+        <li><a href="{{ url_for('loan_eligibility') }}">Check Loan Eligibility</a></li>
+        <li><a href="{{ url_for('credit_score_tips') }}">Credit Score Improvement Tips</a></li>
+        <li><a href="{{ url_for('calculators') }}">Free Financial Calculators</a></li>
+    </ul>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Loan Eligibility Checker</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Check Your Loan Eligibility</h1>
+    <form method="POST">
+        <label>Monthly Income:</label><br>
+        <input type="number" name="income" required><br><br>
+
+        <label>Desired Loan Amount:</label><br>
+        <input type="number" name="loan_amount" required><br><br>
+
+        <label>CIBIL Score:</label><br>
+        <input type="number" name="cibil_score" required><br><br>
+
+        <button type="submit">Check Eligibility</button>
+    </form>
+
+    {% if result %}
+        <h3>{{ result }}</h3>
+        {% if 'Eligible' in result %}
+        <a href="https://affiliatepartner.com/loan-offer?id=12345" target="_blank">
+            Get the Best Loan Offer
+        </a>
+        {% endif %}
+    {% endif %}
+</body>
+</html>

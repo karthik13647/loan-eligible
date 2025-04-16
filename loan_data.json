@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "income": 50000.0,
+        "loan_amount": 500000.0,
+        "cibil_score": 20000,
+        "result": "Eligible \u2705 - Apply for the best loan offer now!"
+    },
+    {
+        "id": 2,
+        "income": 50000.0,
+        "loan_amount": 500000.0,
+        "cibil_score": 20000,
+        "result": "Eligible \u2705 - Apply for the best loan offer now!"
+    },
+    {
+        "id": 3,
+        "income": 50000.0,
+        "loan_amount": 500000.0,
+        "cibil_score": 20000,
+        "result": "Eligible \u2705 - Apply for the best loan offer now!"
+    },
+    {
+        "id": 4,
+        "income": 25000.0,
+        "loan_amount": 500000.0,
+        "cibil_score": 456,
+        "result": "Not Eligible \u274c - Improve your profile and try again."
+    },
+    {
+        "id": 5,
+        "income": 40000.0,
+        "loan_amount": 500000.0,
+        "cibil_score": 456,
+        "result": "Not Eligible \u274c - Improve your profile and try again."
+    },
+    {
+        "id": 6,
+        "income": 40000.0,
+        "loan_amount": 500000.0,
+        "cibil_score": 400,
+        "result": "Not Eligible \u274c - Improve your profile and try again."
+    },
+    {
+        "id": 7,
+        "income": 40000.0,
+        "loan_amount": 500000.0,
+        "cibil_score": 200,
+        "result": "Not Eligible \u274c - Improve your profile and try again."
+    },
+    {
+        "id": 8,
+        "income": 40000.0,
+        "loan_amount": 500000.0,
+        "cibil_score": 600,
+        "result": "Not Eligible \u274c - Improve your profile and try again."
+    },
+    {
+        "id": 9,
+        "income": 40000.0,
+        "loan_amount": 500000.0,
+        "cibil_score": 636,
+        "result": "Not Eligible \u274c - Improve your profile and try again."
+    },
+    {
+        "id": 10,
+        "income": 50000.0,
+        "loan_amount": 500000.0,
+        "cibil_score": 5000,
+        "result": "Eligible \u2705 - Apply for the best loan offer now!"
+    },
+    {
+        "id": 11,
+        "income": 40000.0,
+        "loan_amount": 500000.0,
+        "cibil_score": 400,
+        "result": "Not Eligible \u274c - Improve your profile and try again."
+    },
+    {
+        "id": 12,
+        "income": 40000.0,
+        "loan_amount": 500000.0,
+        "cibil_score": 700,
+        "result": "Eligible \u2705 - Apply for the best loan offer now!"
+    },
+    {
+        "id": 13,
+        "income": 45000.0,
+        "loan_amount": 500000.0,
+        "cibil_score": 600,
+        "result": "Not Eligible \u274c - Improve your profile and try again."
+    },
+    {
+        "id": 14,
+        "income": 45000.0,
+        "loan_amount": 500000.0,
+        "cibil_score": 700,
+        "result": "Eligible \u2705 - Apply for the best loan offer now!"
+    },
+    {
+        "id": 15,
+        "income": 10000.0,
+        "loan_amount": 1000000.0,
+        "cibil_score": 100,
+        "result": "Not Eligible \u274c - Improve your profile and try again."
+    }
+]
